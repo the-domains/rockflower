@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rockflower]]></title>
         <description><![CDATA[Rockflower]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rockflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 19:12:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 20:19:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rockflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Celebration of the “Currency of Mind”on International Women’s Day 2016]]></title>
+            <description><![CDATA[<h1>A Celebration of the “Currency of Mind”on International Women’s Day 2016</h1>]]></description>
+            <link>https://thegrid.ai/rockflower/a-celebration-of-the-currency-of-mindon-international-wome/index.html</link>
+            <guid isPermaLink="false">21bf3688-3706-4c8d-832d-e9843196bfbd</guid>
+            <pubDate>Tue, 05 Jul 2016 20:19:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Five Keys provide a holistic approach to addressing the most critical challenges facing women and girls as well as societies and humanity itself - challenges such poverty, malnutrition, infant mortality, warfare and lack of education.  The Five Keys, which directly address each of these challenges, provide the essential framework for all investment in our partner programs and measurement of impact and success.</p>]]></description>
-            <link>undefineda2eef42e-da02-4677-93df-37ad1e29ef7b/index.html</link>
+            <link>https://thegrid.ai/rockflower/a2eef42e-da02-4677-93df-37ad1e29ef7b/index.html</link>
             <guid isPermaLink="false">a2eef42e-da02-4677-93df-37ad1e29ef7b</guid>
             <pubDate>Mon, 28 Mar 2016 19:12:15 GMT</pubDate>
         </item>
